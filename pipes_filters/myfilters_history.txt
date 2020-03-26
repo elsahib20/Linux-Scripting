@@ -1,0 +1,638 @@
+    1  seahorse --version
+    2  source /home/student/Documents/DevOps/venv/bin/activate
+    3  /home/student/Documents/DevOps/venv/bin/python -m pip install -U pylint
+    4  ~s
+    5  ls
+    6  cd Documents
+    7  git
+    8  sudo apt-get update
+    9  sudo apt install -y git
+   10  sudo apt install -y git, python3 python3-venv, tree
+   11  sudo apt install -y python3 python3-venv, tree
+   12  sudo apt install -y python3 python3-venv tree
+   13  git
+   14  touch Hafiz_readme.md
+   15  git clone https://github.com/elsahib20/DevOps.git
+   16  cd DevOps
+   17  pip3 
+   18  python3 pip
+   19  sudo apt install -y pip3
+   20  python3 -m venv
+   21  python3 -m venv venv
+   22  . venv/bin/activate
+   23  pip3 install -r requirements.txt 
+   24  git branch
+   25  python3 app.py
+   26  export SECRET_KEY=ysofxj^_bm1#q*px4o5vuf%=2s-m98bfv8hk2l231jl^0po
+   27  export DATABASE_URI=mysql+pymysql://root:QAstudent10@35.242.180.145/devops
+   28  python3 app.py
+   29  git checkout trials
+   30  python3 app.py
+   31  git checkout master
+   32  git merge trials
+   33  git config --global user.name "Osman Elsahib"
+   34  git config --global user.email "elsahib20@gmail.com"
+   35  git merge trials
+   36  git log
+   37  git status
+   38  git add .
+   39  git status
+   40  git merge trials
+   41  git commit -m "merging changes"
+   42  git merge trials
+   43  git branch trials
+   44  git checkout trials
+   45  python3 app.py
+   46  git push
+   47  python3 app.py
+   48  vim requirements.txt 
+   49  sudo apt install -y vim
+   50  vim requirements.txt 
+   51  pip install flask_table
+   52  pip freeze | grep flask-table >> requirements.txt 
+   53  vim requirements.txt 
+   54  pip freeze --help
+   55  pip freeze flask-table
+   56  vim requirements.txt 
+   57  python3 app.py
+   58  git branch
+   59  git checkout master
+   60  git commit -m "not sure"
+   61  git branch
+   62  git add .
+   63  python3 app.py
+   64  git commit -m "not sure"
+   65  python3 app.py
+   66  git branch]
+   67  git branch
+   68  git add .
+   69  git status
+   70  git push -u origin trials
+   71  git pull
+   72  git push -u origin trials
+   73  git checkout master
+   74  git status
+   75  git push -u origin master
+   76  git add .
+   77  git status
+   78  git commit -m "fix service file"
+   79  git push -u origin master
+   80  git branch
+   81  python3 app.py
+   82  git push -u origin master
+   83  python3 app.py
+   84  git checkout trials
+   85  git merge master
+   86  git status
+   87  git checkout master
+   88  git status
+   89  git merge master
+   90  git branch
+   91  git push -u origin trials
+   92  python3 app.py
+   93  git checkout master
+   94  git add .
+   95  git checkout master
+   96  python3 app.py
+   97  git checkout master
+   98  python3 app.py
+   99  git checkout trials
+  100  python3 app.py
+  101  git checkout master
+  102  python3 app.py
+  103  git checkout trials
+  104  python3 app.py
+  105  git status
+  106  git push -u origin trials
+  107  git status
+  108  git push -u origin trials
+  109  git status
+  110  git push -u origin trials
+  111  python3 app.py
+  112  git status
+  113  git add .
+  114  git status
+  115  git branch
+  116  git commit -m "View Joint data in view page"
+  117  git push -u origin trials
+  118  git checkout master
+  119  git status
+  120  git merge trials
+  121  git push -u origin master
+  122  python3 app.py
+  123  cd DevOps
+  124  ls
+  125  cd Documents
+  126  cd DevOps
+  127  ls
+  128  . venv/bin/activate
+  129  python app.py
+  130  export SECRET_KEY=ysofxj^_bm1#q*px4o5vuf%=2s-m98bfv8hk2l231jl^0po
+  131  export DATABASE_URI=mysql+pymysql://root:QAstudent10@35.242.180.145/devops
+  132  python app.py
+  133  gunicorn --workers=4 --bind=0.0.0.0:5000 app:app
+  134  python app.py
+  135  python create.py
+  136  python app.py
+  137  git checkout trials
+  138  git merge master
+  139  git push -u origin trials
+  140  git fetch
+  141  git merge master
+  142  git rebase master
+  143  git push -u origin trials
+  144  git pull
+  145  git rebase master
+  146  git merge master
+  147  git push -u origin trials
+  148  git status
+  149  git pull trials
+  150  git pull
+  151  git status
+  152  git merge master
+  153  git push -origin trials
+  154  git push -u origin trials
+  155  python app.py
+  156  git status
+  157  git add .
+  158  git status
+  159  git push -u origin trials
+  160  git commit -m "hopefull this is the last commit"
+  161  git push -u origin trials
+  162  git checkout master
+  163  git merge trials
+  164  git status
+  165  git push -u origin master
+  166  python app.py
+  167  git status
+  168  git push -u origin trials
+  169  git checkout master
+  170  git status
+  171  git merge trials
+  172  git push -u origin master
+  173  python app.py
+  174  git status
+  175  git push -u origin trials
+  176  git checkout master
+  177  git merge trials
+  178  git push -u origin master
+  179  exit
+  180  export SECRET_KEY3=ysofxj^_bm1#q*px4o5vuf%=2s-m98bfv8hk2l231jl^0po
+  181  export DATABASE_URI3=mysql+pymysql://root:QAstudent10@35.242.180.145/blog_test
+  182  cd Documents
+  183  ls
+  184  cd DevOps/
+  185  . venv/bin/activate
+  186  python app.py
+  187  git branch
+  188  git branch trials
+  189  git checkout trials
+  190  python app.py
+  191  git pull
+  192  git branch trials
+  193  git checkout master
+  194  git pull
+  195  python app.py
+  196  export SECRET_KEY=ysofxj^_bm1#q*px4o5vuf%=2s-m98bfv8hk2l231jl^0po
+  197  export DATABASE_URI=mysql+pymysql://root:QAstudent10@35.242.180.145/devops
+  198  python app.py
+  199  git status
+  200  git checkout master
+  201  git status
+  202  git merge trials
+  203  git status
+  204  git push -u origin master
+  205  git status
+  206  git branch
+  207  git checkout trials
+  208  git status
+  209  git add .
+  210  git commit -m "file structure"
+  211  git push 
+  212  git push -u origin trials
+  213  git checkout master
+  214  git status
+  215  git merge trials
+  216  git status
+  217  git add .
+  218  git commit -m "merging trials"
+  219  git push -u origin master
+  220  pytest
+  221  export SECRET_KEY3=ysofxj^_bm1#q*px4o5vuf%=2s-m98bfv8hk2l231jl^0po
+  222  export DATABASE_URI3=mysql+pymysql://root:QAstudent10@35.242.180.145/blog_test
+  223  pytest
+  224  pytest --help
+  225  pytest
+  226  cd Documents
+  227  ls
+  228  cd DevOps
+  229  ls
+  230  export SECRET_KEY=ysofxj^_bm1#q*px4o5vuf%=2s-m98bfv8hk2l231jl^0po
+  231  export DATABASE_URI=mysql+pymysql://root:QAstudent10@35.242.180.145/devops
+  232  export DATABASE_URI3=mysql+pymysql://root:QAstudent10@35.242.180.145/blog_test
+  233  . venv/bin/activate
+  234  python3 app.py
+  235  pytest
+  236  export DATABASE_URI3=mysql+pymysql://root:QAstudent10@35.242.180.145/blog_test
+  237  pytest
+  238  clear
+  239  pytest
+  240  pytest tests
+  241  export DATABASE_URI3=mysql+pymysql://root:QAstudent10@35.242.180.145/players
+  242  pytest tests
+  243  pip3 freeze
+  244  python3 app.py
+  245  pytest
+  246  echo $DATABASE_URI
+  247  echo $DATABASE_URI3
+  248  pytest
+  249  python3 app.py
+  250  pytest
+  251  python3 app.py
+  252  pytest
+  253  pytest-cov
+  254  pytest --cov
+  255  pytest --cov --cov-report html
+  256  pytest
+  257  pytest --cov --cov-report html
+  258  cd Documents/
+  259  cd DevOps/
+  260  . venv/bin/activate
+  261  export SECRET_KEY3=ysofxj^_bm1#q*px4o5vuf%=2s-m98bfv8hk2l231jl^0po
+  262  export DATABASE_URI3=mysql+pymysql://root:QAstudent10@35.242.180.145/blog_test
+  263  export SECRET_KEY=ysofxj^_bm1#q*px4o5vuf%=2s-m98bfv8hk2l231jl^0po
+  264  export DATABASE_URI=mysql+pymysql://root:QAstudent10@35.242.180.145/devops
+  265  pytest
+  266  export SECRET_KEY3=ysofxj^_bm1#q*px4o5vuf%=2s-m98bfv8hk2l231jl^0po
+  267  export DATABASE_URI3=mysql+pymysql://root:QAstudent10@35.242.180.145/blog_test
+  268  pytest
+  269  python app.py
+  270  pytest
+  271  python app.py
+  272  sudo apt-get update 
+  273  sudo apt install -y unzip
+  274  wget https://chromedriver.storage.googleapis.com/2.41/chromedriver_linux64.zip
+  275  unzip chromedriver_linux64.zip
+  276  ls
+  277  pytest
+  278  pip3 freeze
+  279  pytest
+  280  source /home/student/Documents/DevOps/venv/bin/activate
+  281  /home/student/Documents/DevOps/venv/bin/python
+  282  export SECRET_KEY3=ysofxj^_bm1#q*px4o5vuf%=2s-m98bfv8hk2l231jl^0po
+  283  export DATABASE_URI3=mysql+pymysql://root:QAstudent10@35.242.180.145/blog_test
+  284  cd Documents/DevOps/
+  285  . venv/bin/activate
+  286  python3 app.py
+  287  export SECRET_KEY=ysofxj^_bm1#q*px4o5vuf%=2s-m98bfv8hk2l231jl^0po
+  288  export DATABASE_URI=mysql+pymysql://root:QAstudent10@35.242.180.145/devops
+  289  export SECRET_KEY3=ysofxj^_bm1#q*px4o5vuf%=2s-m98bfv8hk2l231jl^0po
+  290  export DATABASE_URI3=mysql+pymysql://root:QAstudent10@35.242.180.145/blog_test
+  291  python3 app.py
+  292  pytest
+  293  clear
+  294  pytest
+  295  export SECRET_KEY=ysofxj^_bm1#q*px4o5vuf%=2s-m98bfv8hk2l231jl^0po
+  296  export DATABASE_URI=mysql+pymysql://root:QAstudent10@35.242.180.145/devops
+  297  export SECRET_KEY3=ysofxj^_bm1#q*px4o5vuf%=2s-m98bfv8hk2l231jl^0po
+  298  export DATABASE_URI3=mysql+pymysql://root:QAstudent10@35.242.180.145/players
+  299  pytest
+  300  python3 app.py
+  301  pytest
+  302  python3 app.py
+  303  pytest
+  304  pytest --cov html
+  305  pytest --cov --cov-html html
+  306  pytest --cov --cov-report html
+  307  deactivate
+  308  cd ..
+  309  . venv/bin/activate
+  310  cd DevOps/
+  311  pytest --cov --cov-report html
+  312  ls
+  313  ls -la
+  314  pytest --cov --cov-report html
+  315  . ./../venv/bin/activate
+  316  pytest --cov --cov-report html
+  317  pip3 freeze
+  318  deactivate 
+  319  . venv/bin/activate
+  320  pip3 freeze
+  321  pytest --cov --cov-report html
+  322  . venv/bin/activate
+  323  pytest
+  324  pytest --cov --cov-report html
+  325  deactivate 
+  326  cd \
+  327  cd ..
+  328  cd
+  329  ls
+  330  cd Documents
+  331  git clone https://github.com/zedz65/myproject.git
+  332  cd myproject
+  333  cd ..
+  334  cd DevOps/
+  335  . venv/bin/activate
+  336  cd ..
+  337  cd myproject/
+  338  export DATABASE_URI="mysql+pymysql://root:zahid65@35.246.95.9/myprojectdb"
+  339  python3 app.py
+  340  cd ..
+  341  cd DevOps/
+  342  ls
+  343  export SECRET_KEY=ysofxj^_bm1#q*px4o5vuf%=2s-m98bfv8hk2l231jl^0po
+  344  export DATABASE_URI=mysql+pymysql://root:QAstudent10@35.242.180.145/devops
+  345  pytest
+  346  python3 app.py
+  347  pytest --cov --cov-report html
+  348  pytest
+  349  touch .coveragerc
+  350  pytest
+  351  pytest --cov --cov-report html
+  352  python3 app.py
+  353  git branch
+  354  git status
+  355  git checkout master
+  356  git merge trials
+  357  git commit -m 'merged trials'
+  358  git push -u origin master
+  359  git merge trials
+  360  git commit -m 'merged trials'
+  361  git merge trials
+  362  git checkout master
+  363  git status
+  364  git checkout trials
+  365  git status
+  366  pytest
+  367  git branch
+  368  git checkout master
+  369  git merge trials
+  370  git status
+  371  git push -u origin master
+  372  export SECRET_KEY=ysofxj^_bm1#q*px4o5vuf%=2s-m98bfv8hk2l231jl^0po
+  373  export DATABASE_URI=mysql+pymysql://root:QAstudent10@35.242.180.145/devops
+  374  export SECRET_KEY3=ysofxj^_bm1#q*px4o5vuf%=2s-m98bfv8hk2l231jl^0po
+  375  export DATABASE_URI3=mysql+pymysql://root:QAstudent10@35.242.180.145/players
+  376  cd Documents/
+  377  cd DevOps/
+  378  . venv/bin/activate
+  379  python3 app.py
+  380  git branch
+  381  git checkout master
+  382  git merge trials
+  383  git status
+  384  git push -u origin master
+  385  git pull
+  386  git merge trials
+  387  git fetch
+  388  git merge trials
+  389  git pull
+  390  git status
+  391  git add .
+  392  git pull
+  393  git merge trials
+  394  git commit -m 'merging'
+  395  git push -u origin master
+  396  git merge tirals
+  397  cd ..
+  398  git clone https://github.com/yasir-satti/activityDiary.git
+  399  ls
+  400  cd activityDiary/
+  401  ls
+  402  export DATABASE_URI=mysql+pymysql://root:QAstudent10@35.242.180.145/activity
+  403  python app.py
+  404  python create.py
+  405  python app.py
+  406  git branch
+  407  cd\
+  408  cd
+  409  ls
+  410  cd Documents/DevOps/
+  411  git branch
+  412  git merge master
+  413  git push -u origin trials
+  414  cd Documents/
+  415  ls
+  416  export SECRET_KEY3=ysofxj^_bm1#q*px4o5vuf%=2s-m98bfv8hk2l231jl^0po
+  417  export DATABASE_URI3=mysql+pymysql://root:QAstudent10@35.242.180.145/blog_test
+  418  export DATABASE_URI=mysql+pymysql://root:QAstudent10@35.242.180.145/blog_test
+  419  export SECRET_KEY=ysofxj^_bm1#q*px4o5vuf%=2s-m98bfv8hk2l231jl^0po
+  420  git clone https://github.com/Sapnasia/garage-project.git
+  421  cd garage-project/
+  422  ls
+  423  cd ..
+  424  cd DevOps/
+  425  . venv/bin//activate
+  426  cd ..
+  427  cd garage-project/
+  428  python3 create.py
+  429  python3 app.py
+  430  cd Documents/
+  431  cd DevOps/
+  432  git status
+  433  git add .
+  434  ls
+  435  git status
+  436  git pull
+  437  git status
+  438  git push -u origin trials
+  439  git branch
+  440  git checkout master
+  441  ls
+  442  git merge trials
+  443  git status
+  444  git push -u origin master
+  445  source /home/student/Documents/DevOps/venv/bin/activate
+  446  ls
+  447  cd Documents/
+  448  ls
+  449  cd Linux
+  450  mkdir Linux
+  451  cd Linux/
+  452  touch file.txt
+  453  ls -l
+  454  chmod 7 file1
+  455  chmod 7 file.txt
+  456  ls l
+  457  ls -l
+  458  chmod 700 file.txt
+  459  ls -l
+  460  chmod 644 file.txt
+  461  ls -l
+  462  chmod 444 file.txt
+  463  ls -l
+  464  chmod 764 file.txt
+  465  ls -l
+  466  chmod 444 file.txt
+  467  ls -l
+  468  chmod 544 file.txt
+  469  ls -l
+  470  chmod 547 file.txt
+  471  ls -l
+  472  chmod 548 file.txt
+  473  touch script.sh
+  474  chmod +a script.sh
+  475  chmod a= script.sh
+  476  chmod a+ script.sh
+  477  ls
+  478  ls -l
+  479  rm script.sh 
+  480  ls -l
+  481  touch script.sh
+  482  chmod a+ script.sh
+  483  ls -l
+  484  rm script.sh 
+  485  touch script.sh
+  486  chmod x+ script.sh
+  487  chmod +x script.sh
+  488  ls -l
+  489  vim script.sh 
+  490  ./script.sh 
+  491  .\script.sh 
+  492  \script.sh 
+  493  script.sh 
+  494  ./script.sh 
+  495  vim script.sh 
+  496  ./script.sh 
+  497  touch exercises.sh
+  498  chmod +x exercises.sh
+  499  vim exercises.sh 
+  500  ./ exercises.sh 
+  501  ./exercises.sh 
+  502  vim exercises.sh 
+  503  ls
+  504  vim exercises.sh 
+  505  ./exercises.sh 
+  506  vim exercises.sh 
+  507  ./exercises.sh 
+  508  vim exercises.sh 
+  509  ./exercises.sh 
+  510  vim exercises.sh 
+  511  ./exercises.sh 
+  512  vim exercises.sh 
+  513  touch ex2.sh
+  514  chmod +x ec2.sh
+  515  chmod +x ex2.sh
+  516  vim ex2.sh 
+  517  . ./ex2.sh
+  518  . ./ex2.shls
+  519  ls
+  520  cd..
+  521  cd ..
+  522  ls
+  523  vim ex2.sh 
+  524  . ./ex2.sh
+  525  ls
+  526  rm -rf newDirectory/
+  527  rm -rf test2.sh 
+  528  rm -rf test1.txt 
+  529  ls
+  530  . ./ex2.sh
+  531  l
+  532  ls newDirectory/
+  533  chmod +x solution1.sh
+  534  ./solution1.sh
+  535  echo /etc/passwd
+  536  echo '/etc/passwd'
+  537  cat /etc/passwd
+  538  ./solution1.sh
+  539  cd ..
+  540  sudo apt get node
+  541  sudo apt install node
+  542  sudo apt install node.js
+  543  node -v
+  544  sudo apt update node.js
+  545  sudo apt upgrade node.js
+  546  node -v
+  547  sudo apt update
+  548  curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
+  549  sudo apt install curl
+  550  curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
+  551  nvm --version
+  552  nvm ls-remote
+  553  nvm install 12.16.1
+  554  node -version
+  555  node -ve
+  556  node -v
+  557  sudo snap install slack --classic
+  558  cd Documents/
+  559  mkdir CYF
+  560  cd CYF
+  561  git clone https://github.com/elsahib20/bikes-for-refugees.git
+  562  ls
+  563  cd bikes-for-refugees/
+  564  git branch bikes-for-refugees/osman
+  565  git status
+  566  . code
+  567  .code
+  568  ld
+  569  ls
+  570  cd Documents/
+  571  cd Linux/
+  572  ls
+  573  ./exercises.sh 
+  574  vim exercises.sh 
+  575  ./exercises.sh 
+  576  vim exercises.sh 
+  577  ./exercises.sh 
+  578  vim exercises.sh 
+  579  ./exercises.sh 
+  580  vim exercises.sh 
+  581  mv exercises.sh ex1.sh
+  582  ls
+  583  vim ex2.sh 
+  584  git init
+  585  git status
+  586  echo "# Linux-Scripting" >> README.md
+  587  git add .
+  588  git commit -m "initial commit"
+  589  git remote add origin https://github.com/elsahib20/Linux-Scripting.git
+  590  git status
+  591  git add .
+  592  git commit -m "initial commit"
+  593  git push -u origin master
+  594  git status
+  595  git add .
+  596  git commit -m "upload sh file"
+  597  git push -u origin master
+  598  curl https://raw.githubusercontent.com/elsahib20/Linux-Scripting/master/Ideal%20Scripts/script.sh
+  599  curl https://raw.githubusercontent.com/elsahib20/Linux-Scripting/master/Ideal%20Scripts/script.sh | bash
+  600  curl -s https://raw.githubusercontent.com/elsahib20/Linux-Scripting/master/Ideal%20Scripts/script.sh | bash
+  601  ls
+  602  cd My Scripts
+  603  cd My_Scripts/
+  604  chmod +x ex3.sh 
+  605  ./ex3.sh 
+  606  vim 3x3.sh
+  607  vim ex3.sh
+  608  ./ex3.sh 
+  609  cd ..
+  610  git status
+  611  git add .
+  612  git commit -m "making it look neat"
+  613  git push -u origin master
+  614  cd pipes_filters/
+  615  grep john /etc/passwd
+  616  grep root /etc/passwd
+  617  sort -t: -k1 /etc/passwd
+  618  cut --help
+  619  cut -d: -f7 /etc/passwd | uniq -d
+  620  cut -d, -f1,4 country.txt | grep english
+  621  sort -t, -k4 country.txt | cut -d, -f1,4
+  622  sort -t, -k1 country.txt | cut -d, -f1,4
+  623  cut -d, -f3 country.txt | sort -k2 | uniq
+  624  cut -d, -f3 country.txt | sort -k2 
+  625  cut -d, -f3 country.txt | sort -k2 | uniq
+  626  cut -d, -f1,4 country.txt | grep -v english >> noenglish.txt
+  627  ls
+  628  cat noenglish.txt 
+  629  cut -d, country.txt | grep -v english > noenglish.txt
+  630  cut -d, -f country.txt | grep -v english >> noenglish.txt
+  631  cut -d, -f1,2,3,4 country.txt | grep -v english >> noenglish.txt
+  632  cat noenglish.txt 
+  633  cut -d, -f1,2,3,4 country.txt | grep -v rome >> rome.txt
+  634  cat rome.txt 
+  635  cut -d, -f2,4 country.txt | grep -v rome >> rome.txt
+  636  cut -d, -f2,4 country.txt | grep rome > rome.txt
+  637  cat rome.txt 
+  638  history > myfilters_history.txt

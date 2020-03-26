@@ -1,0 +1,10 @@
+
+
+china,beijing,rnb,chinese 
+
+germany,berlin,euro,german 
+
+france,paris,euro,french 
+
+italy,rome,euro,italian 
+
